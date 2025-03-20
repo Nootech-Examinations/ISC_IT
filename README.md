@@ -11,8 +11,3 @@ Welcome to the **+2 Information Technology Subject Test** Site! This Site contai
 
 ---
 
-## 🚀 **How to Use**
-
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/your-username/+2-it-test.git
